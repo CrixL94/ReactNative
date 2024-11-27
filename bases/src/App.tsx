@@ -1,5 +1,5 @@
 import "./App.css";
-import { ObjectLiteral } from "./typescript/ObjectLiteral";
+// import { ObjectLiteral } from "./typescript/ObjectLiteral";
 // import { BasicTypes } from "./typescript/Basictypes";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <>
       <h1>React + TS</h1>
       {/* <BasicTypes/> */}
-      <ObjectLiteral/>
+      {/* <ObjectLiteral/> */}
 
     </>
   );
